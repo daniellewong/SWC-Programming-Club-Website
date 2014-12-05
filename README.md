@@ -2,21 +2,24 @@ SWC-Programming Club
 ====================
 Website for the SWC Computer Programming Club
 
-Languages
-=========
-HTML (HyperText Markup Language) [hopefully up to HTML 5 standards)
+Guaranteed Languages
+====================
+HTML (HyperText Markup Language) [hopefully up to HTML 5 standards), 
 CSS (Cascading Style Sheet)  [if possible]
-JavaScript (host dependent)
-PHP (host dependent)
-SQL (host dependent)
-Flash (if games made by club members are integrated)
-Python (if club members' content is integrated)
-C+, C++, C# (if club members' content is inegrated)
-Java (if club members' content is integgrated)
+JavaScript
+
+Potential Languages
+===================
+PHP, 
+SQL, 
+Flash, 
+Python, 
+C+, C++, C#, 
+Java
 
 Host
 ====
-Google Drive
+Google Drive (current)
 
 Non-Dependent Features
 ======================
