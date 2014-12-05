@@ -4,8 +4,8 @@ Website for the SWC Computer Programming Club
 
 Guaranteed Languages
 ====================
-HTML (HyperText Markup Language) [hopefully up to HTML 5 standards), 
-CSS (Cascading Style Sheet)  [if possible]
+HTML (HyperText Markup Language), 
+CSS (Cascading Style Sheet)
 
 Potential Languages
 ===================
